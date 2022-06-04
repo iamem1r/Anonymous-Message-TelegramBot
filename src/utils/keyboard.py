@@ -1,6 +1,5 @@
-from telebot import types
 import emoji
-
+from telebot import types
 
 
 def create_keyboard(*keys, row_width=2, resize_keyboard=True):

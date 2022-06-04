@@ -1,7 +1,6 @@
+import json
 from http.client import ImproperConnectionState
 from operator import imod
-
-import json
 
 
 def read_json(filename):
